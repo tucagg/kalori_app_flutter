@@ -1,0 +1,42 @@
+# Flutter/Dart
+# Miscellaneous
+*.class
+*.lock
+*.pyc
+*.swp
+*.swo
+.DS_Store
+*.DS_Store
+*.env
+
+# Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+*.iml
+*.lock
+.idea/
+.vscode/
+*.log
+
+# Firebase API Keys
+/lib/api_key.dart
+/lib/firebase_options.dart
+
+# Secrets
+*.env
+.env
+
+# Generated files
+*.g.dart
