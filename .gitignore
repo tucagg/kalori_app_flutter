@@ -31,7 +31,6 @@ android/app/release/
 *.log
 
 # Firebase API Keys
-/lib/api_key.dart
 /lib/firebase_options.dart
 
 # Secrets
