@@ -1,16 +1,9 @@
 # kalori
 
-A new Flutter project.
+# Firebase API Keys
+/lib/api_key.dart
+/lib/firebase_options.dart
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Don't forget to put your own APIkeys here or it won't work.
+-You should also connect to firebase.
+These are personal and need to be added. If you don't add them, it won't work.
